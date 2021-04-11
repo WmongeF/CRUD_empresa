@@ -1,0 +1,3 @@
+﻿  Mysql_crud.cpp
+LINK : warning LNK4076: archivo de estado incremental 'C:\Users\Walter Monge\Desktop\crud_mysql\x64\Debug\Mysql_crud.ilk' no válido (que se eliminará); se vinculará de manera no incremental
+  Mysql_crud.vcxproj -> C:\Users\Walter Monge\Desktop\crud_mysql\x64\Debug\Mysql_crud.exe
